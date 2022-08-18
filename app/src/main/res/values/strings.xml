@@ -1,0 +1,20 @@
+<resources>
+<string name="app_name">TicketShop</string>
+<string name="usuario">Nome do usuário</string>
+<string name="meio">Meio</string>
+<string name="inteiro">Inteiro</string>
+<string name="pista">Pista</string>
+<string name="vip">Área VIP</string>
+<string name="calcular_txt_btn">Calcular valor dos ingressos</string>
+
+
+<array name="shows">
+    <item>Mato Grosso e Matias</item>
+    <item>Almir Sater</item>
+    <item>Turma do Pagode</item>
+    <item>Jeito Moleque</item>
+    <item>Jorge e Matheus</item>
+</array>
+
+
+</resources>
